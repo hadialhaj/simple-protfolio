@@ -1,6 +1,6 @@
 #navb1{
     background-color: #62e0ee;
-    height: 170vh;
+    height: 182vh;
     
 }
 
@@ -11,18 +11,18 @@
 
 #b1{
 background-color: rgb(235, 184, 141);
-width: 132%;
+width: 117%;
 height: 270px;
     }
 #b2{
 background-color: rgb(237, 197, 165);
 
-width: 132%;
+width: 117%;
 height: 150px;
 }
 #b3{
 background-color: rgb(175, 239, 112);
-width: 132%;
+width: 117%;
 height: 280px;
 }
 #a1{
@@ -48,7 +48,7 @@ li{
 
 #b4{
     background-color: rgb(97, 211, 239);
-    width: 130%;
+    width: 117%;
     height: 350px;
 }
 #p1,#p2{
@@ -59,7 +59,7 @@ li{
 }
 #b5{
     background-color: rgb(226, 239, 112);
-    width: 132%;
+    width: 117%;
     height: 150px;
 }
 .mail-img{
